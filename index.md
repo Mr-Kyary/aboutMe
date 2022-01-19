@@ -1,8 +1,22 @@
 ## My Dream
 
 ```
-while(sleeping?)
+# Expectations
+while sleeping?
     money++
+end
+
+# Reality
+while alive?
+    age++
+    weight++
+    money--
+    
+    if 
+    
+    if my_gf_got_pissed?
+        sleeping? = true
+    end
 end
 ```
 

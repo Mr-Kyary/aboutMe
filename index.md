@@ -12,8 +12,6 @@ while alive?
     weight++
     money--
     
-    if 
-    
     if my_gf_got_pissed?
         sleeping? = true
     end
